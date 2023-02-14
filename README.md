@@ -1,6 +1,3 @@
-# ssssttttuuuuddddyyyy
+# 알고리즘 스터디
 
-try hard
-
-
-정보처리기사와 알고리즘 고군분투 ㄱ
+이것이 코딩테스트다 with 파이썬
